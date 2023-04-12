@@ -1,5 +1,5 @@
 //your JS code here. If required.
 function enterBtn(){
-	var status = document.getElementById("status");
-	status.innerHTML = `<h1>"Entered Metaverse"</h1>`
+	var meta = document.getElementById("status");
+	meta.innerHTML = `<h1>"Entered Metaverse"</h1>`
 }
